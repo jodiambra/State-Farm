@@ -13,3 +13,8 @@ Your work will be evaluated in the following areas:
 • The organization and readability of your code
 • The write-up comparing the models
  
+
+
+ .9548
+
+ 100, 75, 50, 25, 5, 1   .9485
