@@ -3,6 +3,12 @@
 
 ## [Interactive Notebook](https://jodiambra.github.io/State-Farm/)
 
+## Purpose
+
+The purpose of this project is to demonstrate data science techniques on datasets provided by State Farm insurance company. The first step is to load and clean the data, as well as conduct exploratory data analysis to understand the data. Following EDA, a few classification models will be built and compared. A logistic regression and another model will be chosen as the final models. We will then compare and contrast the different models based on respective strengths and weaknesses. Finally, predictions will be made on the test data, in the form of class probabilities for belonging to the positive class. 
+
+
+
 ![Alt text](images/compare_models.png)
 
 A Few classification models were tuned with a pipeline to compare AUC ROC scores. The XG boost model performed the best, while SVM performed the worst. Ultimately, XG boost was compared to the logistic regression model
