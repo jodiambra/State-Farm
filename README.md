@@ -1,7 +1,5 @@
 # State-Farm
-
-
-## [Interactive Notebook](https://jodiambra.github.io/State-Farm/)
+![image](https://github.com/jodiambra/State-Farm/assets/115895428/36afc234-c5b7-4627-b208-f70d13ecc016)
 
 ## Purpose
 
@@ -35,3 +33,5 @@ AUC, or area under the curve, calculates the true positive rate against the fals
 If we could not use a scoring metric to compare the two models, we can compare the predictions of the two models on the test set. We can compare the true positive and true negative values of both models, as the model with more correct predictions will perform better. We can also compare the false positive and false negative values of both models. 
 
 Overall, the appropriate model and scoring to implement depends on the the data and the business needs. Many factors can determine the appropriate machine learning algorithm to use, from limited resources and large datasets, to categorical values and model interpretability. 
+
+## [Interactive Notebook](https://jodiambra.github.io/State-Farm/)
